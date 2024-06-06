@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Arial Black';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/font/arial-black.woff2') format('woff2'), /* Modern Browsers */
+    url('/font/arial-black.woff') format('woff');
+    }
